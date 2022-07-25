@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Machine Learning applications.
 - 🤔 I’m looking for help with Machine Learning applications.
 - :mega: More about me: [LinkedIn](https://www.linkedin.com/in/rmarquesi/), [Lattes curriculum](http://lattes.cnpq.br/9859495302735735)
-- ⚡ Fun fact: I love traveling to visit family and exploring places, preferably by motorcycle. :flags: :motorcycle:
+- ⚡ Fun fact: I love traveling to visit family, friends and exploring places, preferably by motorcycle. :flags: :motorcycle:
 
 ### Tools and Technologies
 
